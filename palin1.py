@@ -7,7 +7,7 @@ def isPalindrome(str):
     return True
  
 
-s = "lappal"
+s = "laptop"
 ans = isPalindrome(s)
  
 if (ans):
